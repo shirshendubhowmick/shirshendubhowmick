@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tech enthusiast, Professional software developer
 -------------------------------------------------
 
-* 🌍  I'm based in India 🇮🇳
+* 🌍  I'm based out of India 🇮🇳
 * 🖥️  See my portfolio at [www.shirshendu.dev](http://shirshendu.dev)
 * 🤝  I'm open to collaborating on anything related to open source
 * ⚡  My personal website is outdated as of now
