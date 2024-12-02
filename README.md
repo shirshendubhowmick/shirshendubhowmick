@@ -5,9 +5,9 @@ Tech enthusiast, Professional software developer
 -------------------------------------------------
 
 * 🌍  I'm based out of India 🇮🇳
-* 🖥️  See my portfolio at [www.shirshendu.dev](http://shirshendu.dev)
+* 🖥️  See my portfolio at [www.shirshendu.dev](https://www.shirshendu.dev)
 * 🤝  I'm open to collaborating on anything related to open source
-* ⚡  My personal website is outdated as of now
+* ⚡   I'm also a hobbyist wildlife photographer, check my shots at [Instagram](https://www.instagram.com/shirshendu.bhowmick/)
 
 ### Skills
 
